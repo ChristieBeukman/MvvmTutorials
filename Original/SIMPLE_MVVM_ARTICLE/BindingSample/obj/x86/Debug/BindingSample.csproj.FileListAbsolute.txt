@@ -1,0 +1,12 @@
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\bin\Debug\BindingSample.exe
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\bin\Debug\BindingSample.pdb
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample.csprojResolveAssemblyReference.cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\App.g.cs
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample_MarkupCompile.cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample.g.resources
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample.Properties.Resources.resources
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample.csproj.GenerateResource.Cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample.exe
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\BindingSample\obj\x86\Debug\BindingSample.pdb

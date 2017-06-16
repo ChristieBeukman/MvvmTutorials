@@ -1,0 +1,11 @@
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\bin\Debug\CommandSample.exe
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\bin\Debug\CommandSample.pdb
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\App.g.cs
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\CommandSample_MarkupCompile.cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\CommandSample.g.resources
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\CommandSample.Properties.Resources.resources
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\CommandSample.csproj.GenerateResource.Cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\CommandSample.exe
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\CommandSample\obj\x86\Debug\CommandSample.pdb

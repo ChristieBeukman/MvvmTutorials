@@ -1,0 +1,13 @@
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\bin\Debug\ItemsControlDataTemplateTest.exe
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\bin\Debug\ItemsControlDataTemplateTest.pdb
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest.csprojResolveAssemblyReference.cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\App.g.cs
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest_MarkupCompile.cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest_MarkupCompile.lref
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest.g.resources
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest.Properties.Resources.resources
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest.csproj.GenerateResource.Cache
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest.exe
+C:\Users\Christie\Desktop\SIMPLE_MVVM_ARTICLE\ItemsControlDataTemplateTest\obj\x86\Debug\ItemsControlDataTemplateTest.pdb
