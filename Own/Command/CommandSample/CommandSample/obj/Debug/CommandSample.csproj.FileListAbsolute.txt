@@ -1,0 +1,15 @@
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\bin\Debug\CommandSample.exe.config
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\bin\Debug\CommandSample.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\bin\Debug\CommandSample.pdb
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample_MarkupCompile.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample_MarkupCompile.lref
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample.g.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\Command\CommandSample\CommandSample\obj\Debug\CommandSample.pdb

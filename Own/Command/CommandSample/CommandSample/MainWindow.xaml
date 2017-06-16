@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:CommandSample"
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
+    <Window.DataContext>
+        <local:CommandSampleViewModel x:Name="vm"/>
+    </Window.DataContext>
     <Grid>
-        
+        <Button Height="20"
+                Width="30" Command="{Binding theCommand, Mode=OneWay}"/>
     </Grid>
 </Window>
