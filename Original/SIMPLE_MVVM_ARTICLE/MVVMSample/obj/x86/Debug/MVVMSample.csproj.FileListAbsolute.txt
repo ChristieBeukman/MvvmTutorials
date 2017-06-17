@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\bin\Debug\MVVMSample.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\bin\Debug\MVVMSample.pdb
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\App.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample_MarkupCompile.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample_MarkupCompile.lref
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\XAMLResources\StudentsViewResources.baml
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample.g.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MVVMSample\obj\x86\Debug\MVVMSample.pdb

@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\bin\Debug\MSExpressionSDKInteractivitySample.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\bin\Debug\MSExpressionSDKInteractivitySample.pdb
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\bin\Debug\System.Windows.Interactivity.dll
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\App.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample_MarkupCompile.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample.g.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Original\SIMPLE_MVVM_ARTICLE\MSExpressionSDKInteractivitySample\obj\x86\Debug\MSExpressionSDKInteractivitySample.pdb
