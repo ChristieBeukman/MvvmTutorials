@@ -14,16 +14,16 @@ namespace SimpleCommand.ViewModels
         {
             simpleCommand = new Command(DoSimpleCommannd);
             parameterCommand = new Command(DoParameterCommand);
+            enableDisableCommand = new Command(
+                      () =>
+                      {
+                          MessageBox.Show("Enable/Disable command called.");
+                      }, false);
         }
-
+        #region SImple Command
         private void DoSimpleCommannd()
         {
             MessageBox.Show("simple");
-        }
-
-        private void DoParameterCommand(object parameter)
-        {
-            MessageBox.Show("Parameter is " + parameter.ToString());
         }
 
         private Command simpleCommand;
@@ -37,6 +37,16 @@ namespace SimpleCommand.ViewModels
 
         }
 
+        #endregion
+
+        #region Parameter COmmand
+
+        private void DoParameterCommand(object parameter)
+        {
+            MessageBox.Show("Parameter is " + parameter.ToString());
+        }
+
+
         private Command parameterCommand;
 
         public Command ParameterCommand
@@ -48,5 +58,32 @@ namespace SimpleCommand.ViewModels
 
         }
 
+     
+        #endregion
+
+        #region  EnableDisable COmmand
+
+        private void DisableCOmmand()
+        {
+            EnableDisableCommand.CanExecute = false;
+        }
+
+        private void EnableCommand()
+        {
+            EnableDisableCommand.CanExecute = true;
+        }
+
+        private Command enableDisableCommand;
+
+        public Command EnableDisableCommand
+        {
+            get
+            {
+                return enableDisableCommand;
+            }
+
+
+        }
+        #endregion
     }
 }
