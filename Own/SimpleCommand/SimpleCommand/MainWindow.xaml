@@ -13,6 +13,7 @@
     <Grid>
         <StackPanel>
             <Button Content="press" Command="{Binding SimpleCommand, Mode=OneWay}" />
+            <Button Content="parameter" Command="{Binding ParameterCommand}" CommandParameter="piele" />
         </StackPanel>
     </Grid>
 </Window>

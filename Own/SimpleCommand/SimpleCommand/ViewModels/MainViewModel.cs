@@ -13,11 +13,17 @@ namespace SimpleCommand.ViewModels
         public MainViewModel()
         {
             simpleCommand = new Command(DoSimpleCommannd);
+            parameterCommand = new Command(DoParameterCommand);
         }
 
         private void DoSimpleCommannd()
         {
             MessageBox.Show("simple");
+        }
+
+        private void DoParameterCommand(object parameter)
+        {
+            MessageBox.Show("Parameter is " + parameter.ToString());
         }
 
         private Command simpleCommand;
@@ -30,5 +36,17 @@ namespace SimpleCommand.ViewModels
             }
 
         }
+
+        private Command parameterCommand;
+
+        public Command ParameterCommand
+        {
+            get
+            {
+                return parameterCommand;
+            }
+
+        }
+
     }
 }
