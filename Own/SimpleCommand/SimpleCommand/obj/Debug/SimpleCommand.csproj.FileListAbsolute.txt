@@ -1,0 +1,17 @@
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\bin\Debug\SimpleCommand.exe.config
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\bin\Debug\SimpleCommand.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\bin\Debug\SimpleCommand.pdb
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\bin\Debug\Apex.dll
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\bin\Debug\Apex.pdb
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\MainWindow.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand_MarkupCompile.cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand_MarkupCompile.lref
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\MainWindow.baml
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand.g.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand.exe
+D:\Documents\Visual Studio 2017\Projects\Git\TutorialSource\Own\SimpleCommand\SimpleCommand\obj\Debug\SimpleCommand.pdb
