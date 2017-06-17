@@ -16,7 +16,7 @@
             <Button Content="parameter" Command="{Binding ParameterCommand}" CommandParameter="piele" />
             <Button Content="Disable" Command="{Binding EnableDisableCommand, Mode=OneWay}"/>
             <CheckBox IsChecked="{Binding EnableDisableCommand.CanExecute, Mode=TwoWay}" Content="Enabled" HorizontalAlignment="Center" />
-            
+            <Button Content="Events" Command="{Binding EventsCommand}"  />
         </StackPanel>
     </Grid>
 </Window>

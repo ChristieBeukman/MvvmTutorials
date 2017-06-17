@@ -19,6 +19,11 @@ namespace SimpleCommand.ViewModels
                       {
                           MessageBox.Show("Enable/Disable command called.");
                       }, false);
+            eventsCommand = new Command(
+         () =>
+         {
+             MessageBox.Show("Calling the Events Command.");
+         });
         }
         #region SImple Command
         private void DoSimpleCommannd()
@@ -84,6 +89,23 @@ namespace SimpleCommand.ViewModels
 
 
         }
+
+        #endregion
+
+        #region eVENTfIRECommand
+
+        private Command eventsCommand;
+
+        public Command EventsCommand
+        {
+            get
+            {
+                return eventsCommand;
+            }
+
+           
+        }
+
         #endregion
     }
 }
